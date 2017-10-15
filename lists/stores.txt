@@ -1,0 +1,81 @@
+antique shop
+bakery
+barbershop
+beauty parlour
+beauty salon
+big-box store
+book club
+bookshop
+bookstall
+bookstore
+booth
+bottle shop
+boutique
+bucket shop
+builders’ merchant
+butcher
+café
+cash-and-carry
+chain store
+charity shop
+chemist
+chip shop
+the cleaners
+commissary
+concession
+convenience store
+corner shop
+cupcakery
+dairy
+deli
+delicatessen
+department store
+dime store
+dispensing chemist
+drapery
+drugstore
+dry cleaner’s
+duty-free
+filling station
+fish and chip shop
+five-and-dime
+garage
+garden centre
+gas station
+general store
+gift shop
+haberdashery
+hardware shop
+hole-in-the-wall
+hypermarket
+ironmonger’s
+junk shop
+liquor store
+megastore
+minimart
+multiple
+newspaper stand
+newsstand
+off-licence
+outfitter
+paper shop
+patisserie
+perfumery
+petrol station
+pharmacy
+saddler
+saddlery
+salon
+service centre
+service station
+sex shop
+stall
+stationer
+supermarket
+superstore
+sweet shop
+takeaway
+thrift shop
+tobacconist
+trading post
+victualler
