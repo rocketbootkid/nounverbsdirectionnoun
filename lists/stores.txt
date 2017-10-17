@@ -20,7 +20,7 @@ chain store
 charity shop
 chemist
 chip shop
-the cleaners
+cleaners
 commissary
 concession
 convenience store
@@ -38,7 +38,6 @@ dry cleaner’s
 duty-free
 filling station
 fish and chip shop
-five-and-dime
 garage
 garden centre
 gas station
@@ -53,7 +52,6 @@ junk shop
 liquor store
 megastore
 minimart
-multiple
 newspaper stand
 newsstand
 off-licence

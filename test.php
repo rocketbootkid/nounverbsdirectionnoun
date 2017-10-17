@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>1-N tester(s) <verb> [into|out of] 1-N <noun>...</title>
+        <title>A tester [verbs] into a [noun]...</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<style>
@@ -20,9 +20,8 @@
     <body>
 		<div id="content">
 			<?php
-				include ('bin/functions.php');
 				include ('bin/Inflect.php');
-				doThings();
+				test();
 			?>
 		</div>
 		<canvas id="myCanvas" width="2000" height="1000"></canvas>
